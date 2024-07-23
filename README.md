@@ -29,7 +29,7 @@ Here are some of the projects I have worked on:
 
 ## How to View
 
-You can view my portfolio at [https://Zuhaib-dev.github.io/](https://Zuhaib-dev.github.io/) (replace `username` with your GitHub username).
+You can view my portfolio at https://github.com/Zuhaib-dev/Zuhaib-div.github.io/tree/main
 
 ## Contributing
 
